@@ -1,2 +1,17 @@
-# Smart-Healthcare-Monitoring
-Arduino-based Smart Healthcare Monitoring System simulated in Tinkercad. Features include body temperature sensing, social distancing alert using ultrasonic sensor, PIR motion detection, heart rate simulation, and blood pressure monitoring using potentiometer. Data is displayed on an I2C LCD with buzzer alerts for abnormal conditions.
+# Smart Healthcare System (Arduino + Tinkercad)
+
+🚑 An IoT-inspired smart healthcare monitoring system built using **Arduino Uno** and simulated in **Tinkercad**.
+
+## Features
+- 🌡️ Body Temperature Monitoring (TMP36 sensor)
+- 📏 Social Distance Monitoring (Ultrasonic HC-SR04)
+- 🏃 Motion Detection (PIR sensor)
+- 💓 Heart Rate Simulation (70–100 BPM, random)
+- 🩺 Blood Pressure Simulation (Potentiometer mapped to Systolic/Diastolic)
+- 🔔 Buzzer Alerts for Fever, Motion, or Unsafe Distance
+- 📟 I2C LCD Display for real-time vitals
+
+## Circuit
+![circuit](circuit_screenshot.png)  
+
+## LCD Output
