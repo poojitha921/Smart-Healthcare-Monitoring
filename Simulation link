@@ -1,0 +1,32 @@
+# Smart Healthcare System – Tinkercad Simulation
+
+This project is fully simulated on **Autodesk Tinkercad Circuits**.  
+Click the link below to view, run, and modify the simulation online:
+
+🔗 [View Tinkercad Simulation](https://www.tinkercad.com/things/3m9aOPG0xmg/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=1sdJCGsntPMFY5oXSj5l7EjoWWzN1sQ5Iwap5dbECIw)
+
+---
+
+## 🛠️ Components Used in Simulation
+- Arduino Uno
+- TMP36 Temperature Sensor
+- Ultrasonic Sensor (HC-SR04)
+- PIR Motion Sensor
+- Potentiometer (Blood Pressure Simulation)
+- I2C LCD (16x2)
+- Buzzer
+
+---
+
+## 📟 Features in Simulation
+- 🌡️ **Temperature Monitoring** – detects fever condition  
+- 📏 **Social Distancing** – ultrasonic sensor alerts if distance < 60 cm  
+- 🏃 **Motion Detection** – PIR sensor triggers motion alerts  
+- 💓 **Heart Rate Simulation** – random values between 70–100 BPM  
+- 🩺 **Blood Pressure Simulation** – potentiometer mapped to systolic/diastolic values  
+- 🔔 **Buzzer Alerts** – triggered for fever, close distance, or motion  
+- 📺 **LCD Display** – real-time vitals in compact format  
+
+---
+
+💡 *Tip: You can clone this circuit in Tinkercad and try adding more sensors like SpO₂, humidity, or Wi-Fi for IoT logging.*
