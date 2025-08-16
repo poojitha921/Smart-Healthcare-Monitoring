@@ -12,6 +12,6 @@
 - 📟 I2C LCD Display for real-time vitals
 
 ## Circuit
-![circuit](circuit_screenshot.png)  
+![circuit](Screenshot 2025-08-16 102332.png)  
 
 ## LCD Output
