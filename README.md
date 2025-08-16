@@ -15,3 +15,13 @@
 ![circuit](Screenshot 2025-08-16 102332.png)  
 
 ## LCD Output
+T:36.9C D:45cm
+HR:88 BP:120/80 M
+
+## Files
+- `smart_healthcare.ino` → Arduino source code
+- `README.md` → Documentation
+- `circuit_screenshot.png` → Tinkercad circuit
+
+## Simulation
+🔗 [View on Tinkercad](your-tinkercad-link-here)
