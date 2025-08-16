@@ -19,9 +19,9 @@ T:36.9C D:45cm
 HR:88 BP:120/80 M
 
 ## Files
-- `smart_healthcare.ino` → Arduino source code
+- `Soucrcecode.ino` → Arduino source code
 - `README.md` → Documentation
 - `circuit_screenshot.png` → Tinkercad circuit
 
 ## Simulation
-🔗 [View on Tinkercad](your-tinkercad-link-here)
+🔗 [View on Tinkercad](https://www.tinkercad.com/things/3m9aOPG0xmg/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=1sdJCGsntPMFY5oXSj5l7EjoWWzN1sQ5Iwap5dbECIw)
